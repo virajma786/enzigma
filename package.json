@@ -1,0 +1,22 @@
+{
+  "name": "exam.infoway",
+  "version": "1.0.0",
+  "description": "ntg",
+  "main": "index.js",
+  "scripts": {
+    "test": "ntg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virajma786/enzigma.git"
+  },
+  "keywords": [
+    "ntg"
+  ],
+  "author": "ntg",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/virajma786/enzigma/issues"
+  },
+  "homepage": "https://github.com/virajma786/enzigma#readme"
+}
